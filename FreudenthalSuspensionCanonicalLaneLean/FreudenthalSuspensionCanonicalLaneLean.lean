@@ -1,0 +1,14 @@
+import FreudenthalSuspensionCanonicalLaneLean.AdmissibleClass
+import FreudenthalSuspensionCanonicalLaneLean.SuspensionTopology
+import FreudenthalSuspensionCanonicalLaneLean.HomotopyGroups
+import FreudenthalSuspensionCanonicalLaneLean.FreudenthalTheorem
+import FreudenthalSuspensionCanonicalLaneLean.FinalTheorem
+import FreudenthalSuspensionCanonicalLaneLean.Formalization
+
+namespace HautevilleHouse
+namespace FreudenthalSuspensionCanonicalLaneLean
+
+-- Root module for the Freudenthal Suspension canonical lane Lean package.
+
+end FreudenthalSuspensionCanonicalLaneLean
+end HautevilleHouse
